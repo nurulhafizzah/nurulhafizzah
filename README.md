@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafizzah</h1>
 - 🌱 I’m currently learning Cybersecurity related at UTM
 
-- ⚡ Fun fact -**- I think I am funny**
+- ⚡ Fun fact**- I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
