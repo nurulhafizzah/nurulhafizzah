@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hafizzah</h1>
-- 🌱 I’m currently learning Cybersecurity related at UTM
+<h1 align="center">Hi 👋, I'm _Hafizzah_</h1>
+- 🌱 I’m currently learning **Cybersecurity related at UTM**
 
-- ⚡ Fun fact : I think I am funny ^^
+- 📫 How to reach me **nurulhafizzah@graduate.utm.my**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
