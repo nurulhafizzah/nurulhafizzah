@@ -5,6 +5,7 @@ Feel free to contact me at rhafizzah@gmail.com <br>
 # Education 
 SBP Integrasi Gombak <br>
 - Graduate with 7A in SPM <br>
+
 Foundation in UiTM 
 - Graduate with PKNG 3.87
 - Graduate with 4.00 for UPU <br>
