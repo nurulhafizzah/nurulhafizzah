@@ -1,6 +1,6 @@
 # About Me
 Hi!! <br>
-Feel free to contact me at rhafizzah@gmail.com <br> <br>
+Feel free to contact me at rhafizzah@gmail.com <br> 
 
 # Education 
 SBP Integrasi Gombak <br>
@@ -8,6 +8,7 @@ SBP Integrasi Gombak <br>
 Foundation in UiTM 
 - Graduate with PKNG 3.87
 - Graduate with 4.00 for UPU <br>
+
 UTM
 - Currently study Network and Computer Security
 
