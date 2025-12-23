@@ -1,5 +1,5 @@
 # About Me
-Hi!!
+Hi!! \n 
 Feel free to contact me at rhafizzah@gmail.com
 
 # Education 
