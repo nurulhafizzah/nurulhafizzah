@@ -1,6 +1,6 @@
 # About Me
 Hi!! <br>
-Feel free to contact me at rhafizzah@gmail.com <br> 
+Feel free to contact me at nurulhafizzah@graduate.utm.my <br> 
 
 # Education 
 SBP Integrasi Gombak <br>
