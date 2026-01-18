@@ -1,6 +1,7 @@
 # About Me
 Hi!! <br>
 Feel free to contact me at rhafizzah@gmail.com <br> 
+LinkedIn : www.linkedin.com/in/hafizzah-rseli-8b98583a3
 
 # Education 
 SBP Integrasi Gombak <br>
