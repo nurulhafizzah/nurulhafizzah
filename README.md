@@ -14,6 +14,10 @@ Foundation in UiTM
 UTM
 - Currently study Network and Computer Security
 
+# Position
+2025/2026
+- Secretariat Faculty of Computing
+
 # Honors and Award
 2025 
 - Pingat Gangsa << Torquezob (produk ) <<  Karnival Sains & Teknologi Islam (KSTI)
